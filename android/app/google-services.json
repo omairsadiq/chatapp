@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974834933831",
+    "project_id": "chatapp-ab609",
+    "storage_bucket": "chatapp-ab609.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974834933831:android:e12bab662b860d92d69162",
+        "android_client_info": {
+          "package_name": "com.omair.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974834933831-07nrrabicembt7t9t3uifs2jguf52ca6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCChYfw7JPG90XZEVqNUeI5GvRZjQa3JRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974834933831-07nrrabicembt7t9t3uifs2jguf52ca6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
